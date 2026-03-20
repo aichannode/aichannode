@@ -1,534 +1,90 @@
-<div align="center">
-<!--   <img
-    src="./global-software-developer-talent.png"
-    align="center"
-    style="width: 70%"
-  /> -->
-</div>
-
-<h1 align="center">
-  Full-stack Engineer
-</h1>
-
-<h3>Blockchain (EVM & Solana) + AI (LLM) engineer building secure, production-grade decentralized systems. I design smart contracts for EVM chains (Solidity, DeFi primitives, audits-minded development) and develop high-performance Solana programs using Rust/Anchor, plus the indexing + infrastructure needed to power user experiences. On the AI side, I build LLM-powered products with RAG, fine-tuning where it fits, evaluation/guardrails, and clean model-to-app integration.</h3>
-
-<br />
-
-## My Skill Set
-
-<table>
-  <tr>
-    <td valign="top" width="25%">
-      <h3>Frontend</h3>
-      <div align="center">
-        <a href="https://reactjs.org/" target="_blank"
-          ><img
-            style="margin: 10px"
-            src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg"
-            alt="React"
-            height="50"
-        /></a>
-        <a href="https://getbootstrap.com/docs/3.4/javascript/" target="_blank"
-          ><img
-            style="margin: 10px"
-            src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg"
-            alt="Bootstrap"
-            height="50"
-        /></a>
-        <a href="https://www.w3schools.com/css/" target="_blank"
-          ><img
-            style="margin: 10px"
-            src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg"
-            alt="CSS3"
-            height="50"
-        /></a>
-        <a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"
-          ><img
-            style="margin: 10px"
-            src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg"
-            alt="HTML5"
-            height="50"
-        /></a>
-        <a href="https://www.javascript.com/" target="_blank"
-          ><img
-            style="margin: 10px"
-            src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg"
-            alt="JavaScript"
-            height="50"
-        /></a>
-        <a href="https://www.chartjs.org/" target="_blank"
-          ><img
-            style="margin: 10px"
-            src="https://profilinator.rishav.dev/skills-assets/logo-title.svg"
-            alt="Chart.js"
-            height="50"
-        /></a>
-        <a href="https://angular.io/" target="_blank"
-          ><img
-            style="margin: 10px"
-            src="https://profilinator.rishav.dev/skills-assets/angularjs-original.svg"
-            alt="Angular"
-            height="50"
-        /></a>
-        <a href="https://www.tailwindcss.com/" target="_blank"
-          ><img
-            style="margin: 10px"
-            src="https://profilinator.rishav.dev/skills-assets/tailwindcss.svg"
-            alt="Tailwind CSS"
-            height="50"
-        /></a>
-        <a href="https://vuejs.org/" target="_blank"
-          ><img
-            style="margin: 10px"
-            src="https://profilinator.rishav.dev/skills-assets/vuejs-original-wordmark.svg"
-            alt="Vue.js"
-            height="50"
-        /></a>
-        <a href="https://www.figma.com/" target="_blank"
-          ><img
-            style="margin: 10px"
-            src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg"
-            alt="Figma"
-            height="50"
-        /></a>
-        <a
-          href="https://www.adobe.com/in/products/photoshop.html"
-          target="_blank"
-          ><img
-            style="margin: 10px"
-            src="https://profilinator.rishav.dev/skills-assets/photoshop-plain.svg"
-            alt="Photoshop"
-            height="50"
-        /></a>
-        <a href="https://woocommerce.com/" target="_blank"
-          ><img
-            style="margin: 10px"
-            src="https://profilinator.rishav.dev/skills-assets/woocommerce.png"
-            alt="WooCommerce"
-            height="50"
-        /></a>
-        <a href="https://nuxtjs.org/" target="_blank"
-          ><img
-            style="margin: 10px"
-            src="https://profilinator.rishav.dev/skills-assets/nuxt.png"
-            alt="Nuxt JS"
-            height="50"
-        /></a>
-        <a href="https://wordpress.com/" target="_blank"
-          ><img
-            style="margin: 10px"
-            src="https://profilinator.rishav.dev/skills-assets/wordpress.png"
-            alt="WordPress"
-            height="50"
-        /></a>
-        <a
-          href="https://www.adobe.com/in/products/indesign.html"
-          target="_blank"
-          ><img
-            style="margin: 10px"
-            src="https://profilinator.rishav.dev/skills-assets/adobeindesign.svg"
-            alt="Adobe InDesign"
-            height="50"
-        /></a>
-        <a href="https://sass-lang.com/" target="_blank"
-          ><img
-            style="margin: 10px"
-            src="https://profilinator.rishav.dev/skills-assets/sass-original.svg"
-            alt="Sass"
-            height="50"
-        /></a>
-      </div>
-    </td>
-    <td valign="top" width="25%">
-      <h3>Backend</h3>
-      <div align="center">
-        <a href="https://www.cplusplus.com/" target="_blank"
-          ><img
-            style="margin: 10px"
-            src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg"
-            alt="C++"
-            height="50"
-        /></a>
-        <a href="https://www.javascript.com/" target="_blank"
-          ><img
-            style="margin: 10px"
-            src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg"
-            alt="JavaScript"
-            height="50"
-        /></a>
-        <a href="https://www.typescriptlang.org/" target="_blank"
-          ><img
-            style="margin: 10px"
-            src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg"
-            alt="TypeScript"
-            height="50"
-        /></a>
-        <a href="https://www.php.net/" target="_blank"
-          ><img
-            style="margin: 10px"
-            src="https://profilinator.rishav.dev/skills-assets/php-original.svg"
-            alt="PHP"
-            height="50"
-        /></a>
-        <a href="https://www.mongodb.com/" target="_blank"
-          ><img
-            style="margin: 10px"
-            src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg"
-            alt="MongoDB"
-            height="50"
-        /></a>
-        <a href="https://nodejs.org/" target="_blank"
-          ><img
-            style="margin: 10px"
-            src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg"
-            alt="Node.js"
-            height="50"
-        /></a>
-        <a href="https://www.linux.org/" target="_blank"
-          ><img
-            style="margin: 10px"
-            src="https://profilinator.rishav.dev/skills-assets/linux-original.svg"
-            alt="Linux"
-            height="50"
-        /></a>
-        <a href="https://www.nginx.com/" target="_blank"
-          ><img
-            style="margin: 10px"
-            src="https://profilinator.rishav.dev/skills-assets/nginx-original.svg"
-            alt="Nginx"
-            height="50"
-        /></a>
-        <a href="https://www.python.org/" target="_blank"
-          ><img
-            style="margin: 10px"
-            src="https://profilinator.rishav.dev/skills-assets/python-original.svg"
-            alt="Python"
-            height="50"
-        /></a>
-        <a href="https://expressjs.com/" target="_blank"
-          ><img
-            style="margin: 10px"
-            src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg"
-            alt="Express.js"
-            height="50"
-        /></a>
-        <a href="https://github.com/" target="_blank"
-          ><img
-            style="margin: 10px"
-            src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg"
-            alt="Git"
-            height="50"
-        /></a>
-        <a href="https://redux.js.org/" target="_blank"
-          ><img
-            style="margin: 10px"
-            src="https://profilinator.rishav.dev/skills-assets/redux-original.svg"
-            alt="Redux"
-            height="50"
-        /></a>
-        <a href="https://www.gnu.org/software/bash/" target="_blank"
-          ><img
-            style="margin: 10px"
-            src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg"
-            alt="Bash"
-            height="50"
-        /></a>
-        <a
-          href="https://docs.microsoft.com/en-us/dotnet/csharp/"
-          target="_blank"
-          ><img
-            style="margin: 10px"
-            src="https://profilinator.rishav.dev/skills-assets/csharp-original.svg"
-            alt="C#"
-            height="50"
-        /></a>
-        <a
-          href="https://dotnet.microsoft.com/download/dotnet-framework"
-          target="_blank"
-          ><img
-            style="margin: 10px"
-            src="https://profilinator.rishav.dev/skills-assets/dot-net-original-wordmark.svg"
-            alt=".NET"
-            height="50"
-        /></a>
-        <a href="https://laravel.com/" target="_blank"
-          ><img
-            style="margin: 10px"
-            src="https://profilinator.rishav.dev/skills-assets/laravel-plain-wordmark.svg"
-            alt="Laravel"
-            height="50"
-        /></a>
-        <a href="https://www.mysql.com/" target="_blank"
-          ><img
-            style="margin: 10px"
-            src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg"
-            alt="MySQL"
-            height="50"
-        /></a>
-        <a href="https://redis.io/" target="_blank"
-          ><img
-            style="margin: 10px"
-            src="https://profilinator.rishav.dev/skills-assets/redis-original-wordmark.svg"
-            alt="Redis"
-            height="50"
-        /></a>
-        <a href="https://opencv.org/" target="_blank"
-          ><img
-            style="margin: 10px"
-            src="https://profilinator.rishav.dev/skills-assets/opencv-icon.svg"
-            alt="OpenCV"
-            height="50"
-        /></a>
-        <a href="https://www.electronjs.org/" target="_blank"
-          ><img
-            style="margin: 10px"
-            src="https://profilinator.rishav.dev/skills-assets/electron-original.svg"
-            alt="Electron"
-            height="50"
-        /></a>
-        <a href="https://www.ruby-lang.org/en/" target="_blank"
-          ><img
-            style="margin: 10px"
-            src="https://profilinator.rishav.dev/skills-assets/ruby-original-wordmark.svg"
-            alt="Ruby"
-            height="50"
-        /></a>
-        <a href="https://nuxtjs.org/" target="_blank"
-          ><img
-            style="margin: 10px"
-            src="https://profilinator.rishav.dev/skills-assets/nuxt.png"
-            alt="Nuxt JS"
-            height="50"
-        /></a>
-        <a href="https://www.djangoproject.com/" target="_blank"
-          ><img
-            style="margin: 10px"
-            src="https://profilinator.rishav.dev/skills-assets/django-original.svg"
-            alt="Django"
-            height="50"
-        /></a>
-        <a href="https://rubyonrails.org/" target="_blank"
-          ><img
-            style="margin: 10px"
-            src="https://profilinator.rishav.dev/skills-assets/rails-original-wordmark.svg"
-            alt="Ruby on Rails"
-            height="50"
-        /></a>
-      </div>
-    </td>
-    <td valign="top" width="25%">
-      <h3>DevOps & CMS</h3>
-      <div align="center">
-        <a href="https://aws.amazon.com/" target="_blank"
-          ><img
-            style="margin: 10px"
-            src="https://profilinator.rishav.dev/skills-assets/amazonwebservices-original-wordmark.svg"
-            alt="AWS"
-            height="50"
-        /></a>
-        <a href="https://cloud.google.com/" target="_blank"
-          ><img
-            style="margin: 10px"
-            src="https://profilinator.rishav.dev/skills-assets/google_cloud-icon.svg"
-            alt="GCP"
-            height="50"
-        /></a>
-        <a href="https://kubernetes.io/" target="_blank"
-          ><img
-            style="margin: 10px"
-            src="https://profilinator.rishav.dev/skills-assets/kubernetes-icon.svg"
-            alt="Kubernetes"
-            height="50"
-        /></a>
-        <a href="https://www.linux.org/" target="_blank"
-          ><img
-            style="margin: 10px"
-            src="https://profilinator.rishav.dev/skills-assets/linux-original.svg"
-            alt="Linux"
-            height="50"
-        /></a>
-        <a href="https://github.com/" target="_blank"
-          ><img
-            style="margin: 10px"
-            src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg"
-            alt="Git"
-            height="50"
-        /></a>
-        <a href="https://www.gnu.org/software/bash/" target="_blank"
-          ><img
-            style="margin: 10px"
-            src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg"
-            alt="Bash"
-            height="50"
-        /></a>
-        <a href="https://graphql.org/" target="_blank"
-          ><img
-            style="margin: 10px"
-            src="https://profilinator.rishav.dev/skills-assets/graphql.png"
-            alt="GraphQL"
-            height="50"
-        /></a>
-        <a href="https://about.gitlab.com/" target="_blank"
-          ><img
-            style="margin: 10px"
-            src="https://profilinator.rishav.dev/skills-assets/gitlab.svg"
-            alt="GitLab"
-            height="50"
-        /></a>
-        <a href="https://firebase.google.com/" target="_blank"
-          ><img
-            style="margin: 10px"
-            src="https://profilinator.rishav.dev/skills-assets/firebase.png"
-            alt="Firebase"
-            height="50"
-        /></a>
-        <a href="https://gulpjs.com/" target="_blank"
-          ><img
-            style="margin: 10px"
-            src="https://profilinator.rishav.dev/skills-assets/gulp-plain.svg"
-            alt="gulp.js"
-            height="50"
-        /></a>
-        <a href="https://www.docker.com/" target="_blank"
-          ><img
-            style="margin: 10px"
-            src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg"
-            alt="Docker"
-            height="50"
-        /></a>
-        <a href="https://wordpress.com/" target="_blank"
-          ><img
-            style="margin: 10px"
-            src="https://profilinator.rishav.dev/skills-assets/wordpress.png"
-            alt="WordPress"
-            height="50"
-        /></a>
-        <a href="https://www.apachefriends.org/" target="_blank"
-          ><img
-            style="margin: 10px"
-            src="https://profilinator.rishav.dev/skills-assets/xampp.png"
-            alt="XAMPP"
-            height="50"
-        /></a>
-        <a href="https://woocommerce.com/" target="_blank"
-          ><img
-            style="margin: 10px"
-            src="https://profilinator.rishav.dev/skills-assets/woocommerce.png"
-            alt="WooCommerce"
-            height="50"
-        /></a>
-        <a href="https://webpack.js.org/" target="_blank"
-          ><img
-            style="margin: 10px"
-            src="https://profilinator.rishav.dev/skills-assets/webpack-original.svg"
-            alt="Webpack"
-            height="50"
-        /></a>
-        <a href="https://www.nginx.com/" target="_blank"
-          ><img
-            style="margin: 10px"
-            src="https://profilinator.rishav.dev/skills-assets/nginx-original.svg"
-            alt="Nginx"
-            height="50"
-        /></a>
-      </div>
-    </td>
-    <td valign="top" width="25%">
-      <h3>Mobile</h3>
-      <div align="center">
-        <a href="https://dart.dev/" target="_blank"
-          ><img
-            style="margin: 10px"
-            src="https://profilinator.rishav.dev/skills-assets/dartlang-icon.svg"
-            alt="Dart"
-            height="50"
-        /></a>
-        <a href="https://www.tailwindcss.com/" target="_blank"
-          ><img
-            style="margin: 10px"
-            src="https://profilinator.rishav.dev/skills-assets/tailwindcss.svg"
-            alt="Tailwind CSS"
-            height="50"
-        /></a>
-        <a href="https://unity.com/" target="_blank"
-          ><img
-            style="margin: 10px"
-            src="https://profilinator.rishav.dev/skills-assets/unity.png"
-            alt="Unity"
-            height="50"
-        /></a>
-        <a href="https://kotlinlang.org/" target="_blank"
-          ><img
-            style="margin: 10px"
-            src="https://profilinator.rishav.dev/skills-assets/kotlinlang-icon.svg"
-            alt="Kotlin"
-            height="50"
-        /></a>
-        <a href="https://www.java.com/" target="_blank"
-          ><img
-            style="margin: 10px"
-            src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg"
-            alt="Java"
-            height="50"
-        /></a>
-        <a href="https://www.ionicframework.com/" target="_blank"
-          ><img
-            style="margin: 10px"
-            src="https://profilinator.rishav.dev/skills-assets/ionic.svg"
-            alt="Ionic"
-            height="50"
-        /></a>
-        <a href="https://www.cordova.apache.org/" target="_blank"
-          ><img
-            style="margin: 10px"
-            src="https://profilinator.rishav.dev/skills-assets/cordova.png"
-            alt="Cordova"
-            height="50"
-        /></a>
-        <a href="https://flutter.dev/" target="_blank"
-          ><img
-            style="margin: 10px"
-            src="https://profilinator.rishav.dev/skills-assets/flutterio-icon.svg"
-            alt="Flutter"
-            height="50"
-        /></a>
-        <a href="https://developer.apple.com/swift/" target="_blank"
-          ><img
-            style="margin: 10px"
-            src="https://profilinator.rishav.dev/skills-assets/swift-original-wordmark.svg"
-            alt="Swift"
-            height="50"
-        /></a>
-      </div>
-    </td>
-  </tr>
-</table>
-
-<br />
-
-## Github Stats 1
-
-<!-- Light Mode -->
-<div align="center"> 
-<a href="https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only">
-<img height=200 src="https://github-readme-stats-git-master-rstaa-rickstaa.vercel.app/api/top-langs/?username=km1220&layout=compact&langs_count=10&hide_border=1&role=OWNER,COLLABORATOR#gh-light-mode-only" alt="Rick Staa's Language stats" />
-</a>
-</div>
-
-<!-- Dark Mode -->
-<div align="center"> 
-<a href="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only">
-<img height=200 src="https://github-readme-stats-git-master-rstaa-rickstaa.vercel.app/api/top-langs/?username=km1220&layout=compact&langs_count=10&hide_border=1&role=OWNER,COLLABORATOR&theme=dark&bg_color=000000#gh-dark-mode-only" alt="Rick Staa's Language stats" />
-</a>
-</div>
-
-## Github Stats 2
-
+<!-- GitHub Profile README (copy into your profile repo: USERNAME/USERNAME) -->
 <div align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=km1220&show_icons=true&count_private=true&hide_border=true"
-    align="center"
+    src="https://raw.githubusercontent.com/rahuldkjain/github-Profile-README/main/src/images/banner.png"
+    alt="banner"
+    width="100%"
+    style="border-radius: 16px;"
   />
+
+  <h1 style="margin-top: 18px; margin-bottom: 6px;">
+    Web3 + AI Engineer
+  </h1>
+
+  <p style="font-size: 16px; color: #555; margin: 0 0 14px;">
+    Building secure Web3 systems and LLM-powered applications.
+    Solidity smart contracts + Rust/Anchor on Solana, with RAG, evaluation, and guardrails for AI.
+  </p>
+
+  <p>
+    <a href="https://github.com/"><img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github"/></a>
+    <img src="https://img.shields.io/badge/Focus-EVM%20%2B%20Solana%20%2B%20LLM-2A7FFF?style=for-the-badge&logo=ai"/>
+    <img src="https://img.shields.io/badge/Security%20Mindset-Audit%20Ready-FFB020?style=for-the-badge&logo=security"/>
+  </p>
 </div>
 
-<br />
+<hr style="margin: 22px 0; border: none; border-top: 1px solid #eaeaea;" />
+
+<div>
+  <div align="center" style="max-width: 980px; margin: 0 auto;">
+    <table style="width: 100%; border-collapse: collapse;">
+      <tr>
+        <td style="padding: 14px; border-radius: 14px; background: #f7f7ff;">
+          <div style="font-weight: 700; margin-bottom: 6px;">What I do</div>
+          <div style="color: #444;">
+            <b>Blockchain:</b> EVM dApps + Solana programs (Rust/Anchor).<br/>
+            <b>AI:</b> LLM apps with <b>RAG</b>, <b>evaluation</b>, and <b>guardrails</b>.
+          </div>
+        </td>
+        <td style="padding: 14px; border-radius: 14px; background: #f7fbff; width: 42%;">
+          <div style="font-weight: 700; margin-bottom: 6px;">Currently</div>
+          <div style="color: #444;">
+            Shipping agentic workflows that safely connect LLM reasoning with on-chain data and actions.
+          </div>
+        </td>
+      </tr>
+    </table>
+  </div>
+</div>
+
+<hr style="margin: 22px 0; border: none; border-top: 1px solid #eaeaea;" />
+
+## <span style="color: #111; font-weight: 800;">Skillset</span>
+
+<div align="center">
+  <div style="max-width: 980px; display: flex; flex-wrap: wrap; gap: 10px; justify-content: center;">
+
+    <kbd style="padding: 10px 14px; background:#111; color:#fff; border-radius: 12px;">Solidity</kbd>
+    <kbd style="padding: 10px 14px; background:#111; color:#fff; border-radius: 12px;">Hardhat</kbd>
+    <kbd style="padding: 10px 14px; background:#111; color:#fff; border-radius: 12px;">OpenZeppelin</kbd>
+    <kbd style="padding: 10px 14px; background:#111; color:#fff; border-radius: 12px;">Smart Contract Security</kbd>
+
+    <kbd style="padding: 10px 14px; background:#10B981; color:#fff; border-radius: 12px;">Rust</kbd>
+    <kbd style="padding: 10px 14px; background:#10B981; color:#fff; border-radius: 12px;">Anchor</kbd>
+    <kbd style="padding: 10px 14px; background:#10B981; color:#fff; border-radius: 12px;">Solana Programs</kbd>
+    <kbd style="padding: 10px 14px; background:#10B981; color:#fff; border-radius: 12px;">CPI / Accounts</kbd>
+
+    <kbd style="padding: 10px 14px; background:#2563EB; color:#fff; border-radius: 12px;">LLM</kbd>
+    <kbd style="padding: 10px 14px; background:#2563EB; color:#fff; border-radius: 12px;">RAG</kbd>
+    <kbd style="padding: 10px 14px; background:#2563EB; color:#fff; border-radius: 12px;">Evaluation</kbd>
+    <kbd style="padding: 10px 14px; background:#2563EB; color:#fff; border-radius: 12px;">Guardrails</kbd>
+
+    <kbd style="padding: 10px 14px; background:#F59E0B; color:#111; border-radius: 12px;">TypeScript</kbd>
+    <kbd style="padding: 10px 14px; background:#F59E0B; color:#111; border-radius: 12px;">Node.js</kbd>
+    <kbd style="padding: 10px 14px; background:#F59E0B; color:#111; border-radius: 12px;">Web3 Integration</kbd>
+  </div>
+</div>
+
+<hr style="margin: 22px 0; border: none; border-top: 1px solid #eaeaea;" />
+
+<div align="center">
+  <h3 style="margin: 0 0 6px;">Links</h3>
+  <p style="margin: 0; color:#444;">
+    <a href="https://your-website.example">Website</a> ·
+    <a href="https://linkedin.com/in/your-handle">LinkedIn</a> ·
+    <a href="mailto:you@example.com">Email</a>
+  </p>
+  <p style="margin-top: 10px; color:#777; font-size: 13px;">
+    Replace the placeholder URLs with your real profiles.
+  </p>
+</div>

@@ -46,25 +46,33 @@
 
 ## <b style="color: #111; font-weight: 800;">Skillset</b>
 
-<div align="center">
-  <div style="max-width: 980px; display: flex; flex-wrap: wrap; gap: 10px; justify-content: center;">
-      <div style="padding: 10px; background:#111; color:#fff; border-radius: 12px;">Solidity</div>
-      <div style="padding: 10px; background:#111; color:#fff; border-radius: 12px;">Hardhat</div>
-      <div style="padding: 10px; background:#111; color:#fff; border-radius: 12px;">OpenZeppelin</div>
-      <div style="padding: 10px; background:#111; color:#fff; border-radius: 12px;">Smart Contract Security</div>
-      <div style="padding: 10px; background:#10B981; color:#fff; border-radius: 12px;">Rust</div>
-      <div style="padding: 10px; background:#10B981; color:#fff; border-radius: 12px;">Anchor</div>
-      <div style="padding: 10px; background:#10B981; color:#fff; border-radius: 12px;">Solana Programs</div>
-      <div style="padding: 10px; background:#10B981; color:#fff; border-radius: 12px;">CPI / Accounts</div>
-      <div style="padding: 10px; background:#2563EB; color:#fff; border-radius: 12px;">LLM</div>
-      <div style="padding: 10px; background:#2563EB; color:#fff; border-radius: 12px;">RAG</div>
-      <div style="padding: 10px; background:#2563EB; color:#fff; border-radius: 12px;">Evaluation</div>
-      <div style="padding: 10px; background:#2563EB; color:#fff; border-radius: 12px;">Guardrails</div>
-      <div style="padding: 10px; background:#F59E0B; color:#111; border-radius: 12px;">TypeScript</div>
-      <div style="padding: 10px; background:#F59E0B; color:#111; border-radius: 12px;">Node.js</div>
-      <div style="padding: 10px; background:#F59E0B; color:#111; border-radius: 12px;">Web3 Integration</div>
-  </div>
-</div>
+<p align="center">
+  <b>EVM</b>
+  <br/>
+  <img src="https://img.shields.io/badge/Solidity-363636?style=flat-square&logo=solidity"/>
+  <img src="https://img.shields.io/badge/Hardhat-FFE66D?style=flat-square&logo=hardhat"/>
+  <img src="https://img.shields.io/badge/OpenZeppelin-4E5EE4?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Smart%20Contract%20Security-FFB020?style=flat-square"/>
+  <br/><br/>
+  <b>Solana</b>
+  <br/>
+  <img src="https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust"/>
+  <img src="https://img.shields.io/badge/Anchor-9945FF?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Solana%20Programs-9945FF?style=flat-square"/>
+  <br/><br/>
+  <b>AI / LLM</b>
+  <br/>
+  <img src="https://img.shields.io/badge/LLM-2563EB?style=flat-square"/>
+  <img src="https://img.shields.io/badge/RAG-2563EB?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Evaluation-2563EB?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Guardrails-2563EB?style=flat-square"/>
+  <br/><br/>
+  <b>Tools</b>
+  <br/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js"/>
+  <img src="https://img.shields.io/badge/Web3%20Integration-E3B341?style=flat-square"/>
+</p>
 
 <hr style="margin: 22px 0; border: none; border-top: 1px solid #eaeaea;" />
 

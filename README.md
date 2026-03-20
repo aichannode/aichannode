@@ -1,11 +1,6 @@
 <!-- GitHub Profile README (copy into your profile repo: USERNAME/USERNAME) -->
 <div align="center">
-  <img
-    src="https://raw.githubusercontent.com/rahuldkjain/github-Profile-README/main/src/images/banner.png"
-    alt="banner"
-    width="100%"
-    style="border-radius: 16px;"
-  />
+ <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=220&section=header&text=Web3%20%2B%20LLM%20Engineering&fontSize=64"      alt="Web3 and LLM Engineering banner" />
 
   <h1 style="margin-top: 18px; margin-bottom: 6px;">
     Web3 + AI Engineer
@@ -49,29 +44,29 @@
 
 <hr style="margin: 22px 0; border: none; border-top: 1px solid #eaeaea;" />
 
-## <span style="color: #111; font-weight: 800;">Skillset</span>
+## <b style="color: #111; font-weight: 800;">Skillset</b>
 
 <div align="center">
   <div style="max-width: 980px; display: flex; flex-wrap: wrap; gap: 10px; justify-content: center;">
-
-    <kbd style="padding: 10px 14px; background:#111; color:#fff; border-radius: 12px;">Solidity</kbd>
-    <kbd style="padding: 10px 14px; background:#111; color:#fff; border-radius: 12px;">Hardhat</kbd>
-    <kbd style="padding: 10px 14px; background:#111; color:#fff; border-radius: 12px;">OpenZeppelin</kbd>
-    <kbd style="padding: 10px 14px; background:#111; color:#fff; border-radius: 12px;">Smart Contract Security</kbd>
-
-    <kbd style="padding: 10px 14px; background:#10B981; color:#fff; border-radius: 12px;">Rust</kbd>
-    <kbd style="padding: 10px 14px; background:#10B981; color:#fff; border-radius: 12px;">Anchor</kbd>
-    <kbd style="padding: 10px 14px; background:#10B981; color:#fff; border-radius: 12px;">Solana Programs</kbd>
-    <kbd style="padding: 10px 14px; background:#10B981; color:#fff; border-radius: 12px;">CPI / Accounts</kbd>
-
-    <kbd style="padding: 10px 14px; background:#2563EB; color:#fff; border-radius: 12px;">LLM</kbd>
-    <kbd style="padding: 10px 14px; background:#2563EB; color:#fff; border-radius: 12px;">RAG</kbd>
-    <kbd style="padding: 10px 14px; background:#2563EB; color:#fff; border-radius: 12px;">Evaluation</kbd>
-    <kbd style="padding: 10px 14px; background:#2563EB; color:#fff; border-radius: 12px;">Guardrails</kbd>
-
-    <kbd style="padding: 10px 14px; background:#F59E0B; color:#111; border-radius: 12px;">TypeScript</kbd>
-    <kbd style="padding: 10px 14px; background:#F59E0B; color:#111; border-radius: 12px;">Node.js</kbd>
-    <kbd style="padding: 10px 14px; background:#F59E0B; color:#111; border-radius: 12px;">Web3 Integration</kbd>
+    <div>
+      <div style="display:inline-block; padding: 10px 14px; background:#111; color:#fff; border-radius: 12px;">Solidity</div>
+      <div style="display:inline-block; padding: 10px 14px; background:#111; color:#fff; border-radius: 12px;">Hardhat</div>
+      <div style="display:inline-block; padding: 10px 14px; background:#111; color:#fff; border-radius: 12px;">OpenZeppelin</div>
+      <div style="display:inline-block; padding: 10px 14px; background:#111; color:#fff; border-radius: 12px;">Smart Contract Security</div>
+      <div style="display:inline-block; padding: 10px 14px; background:#10B981; color:#fff; border-radius: 12px;">Rust</div>
+      <div style="display:inline-block; padding: 10px 14px; background:#10B981; color:#fff; border-radius: 12px;">Anchor</div>
+      <div style="display:inline-block; padding: 10px 14px; background:#10B981; color:#fff; border-radius: 12px;">Solana Programs</div>
+      <div style="display:inline-block; padding: 10px 14px; background:#10B981; color:#fff; border-radius: 12px;">CPI / Accounts</div>
+    </div>
+    <div>
+      <div style="display:inline-block; padding: 10px 14px; background:#2563EB; color:#fff; border-radius: 12px;">LLM</div>
+      <div style="display:inline-block; padding: 10px 14px; background:#2563EB; color:#fff; border-radius: 12px;">RAG</div>
+      <div style="display:inline-block; padding: 10px 14px; background:#2563EB; color:#fff; border-radius: 12px;">Evaluation</div>
+      <div style="display:inline-block; padding: 10px 14px; background:#2563EB; color:#fff; border-radius: 12px;">Guardrails</div>
+      <div style="display:inline-block; padding: 10px 14px; background:#F59E0B; color:#111; border-radius: 12px;">TypeScript</div>
+      <div style="display:inline-block; padding: 10px 14px; background:#F59E0B; color:#111; border-radius: 12px;">Node.js</div>
+      <div style="display:inline-block; padding: 10px 14px; background:#F59E0B; color:#111; border-radius: 12px;">Web3 Integration</div>
+    </div>
   </div>
 </div>
 

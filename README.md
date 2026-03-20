@@ -47,43 +47,35 @@
 ## <b style="color: #111; font-weight: 800;">Skillset</b>
 
 <p align="center">
-  <b>EVM</b>
+  <b>Blockchain</b> — EVM · Solana · zk
   <br/>
   <img src="https://img.shields.io/badge/Solidity-363636?style=flat-square&logo=solidity"/>
   <img src="https://img.shields.io/badge/Hardhat-FFE66D?style=flat-square&logo=hardhat"/>
   <img src="https://img.shields.io/badge/OpenZeppelin-4E5EE4?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Smart%20Contract%20Security-FFB020?style=flat-square"/>
-  <br/><br/>
-  <b>Solana</b>
-  <br/>
+  <img src="https://img.shields.io/badge/Smart%20Contract%20Audit-FFB020?style=flat-square"/>
   <img src="https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust"/>
   <img src="https://img.shields.io/badge/Anchor-9945FF?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Solana%20Programs-9945FF?style=flat-square"/>
+  <img src="https://img.shields.io/badge/zkProofs-8B5CF6?style=flat-square"/>
+  <img src="https://img.shields.io/badge/zkEVM-8B5CF6?style=flat-square"/>
+  <img src="https://img.shields.io/badge/zkSync-8B5CF6?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Circom-8B5CF6?style=flat-square"/>
   <br/><br/>
-  <b>AI / LLM</b>
+  <b>AI</b> — LLM
   <br/>
   <img src="https://img.shields.io/badge/LLM-2563EB?style=flat-square"/>
   <img src="https://img.shields.io/badge/RAG-2563EB?style=flat-square"/>
   <img src="https://img.shields.io/badge/Evaluation-2563EB?style=flat-square"/>
   <img src="https://img.shields.io/badge/Guardrails-2563EB?style=flat-square"/>
+  <img src="https://img.shields.io/badge/CrewAI-2563EB?style=flat-square"/>
+  <img src="https://img.shields.io/badge/MCP-2563EB?style=flat-square"/>
   <br/><br/>
-  <b>Tools</b>
+  <b>Fullstack</b>
   <br/>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react"/>
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript"/>
   <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js"/>
-  <img src="https://img.shields.io/badge/Web3%20Integration-E3B341?style=flat-square"/>
+  <img src="https://img.shields.io/badge/wagmi-EC1C24?style=flat-square"/>
+  <img src="https://img.shields.io/badge/viem-6366F1?style=flat-square"/>
 </p>
 
 <hr style="margin: 22px 0; border: none; border-top: 1px solid #eaeaea;" />
-
-<div align="center">
-  <h3 style="margin: 0 0 6px;">Links</h3>
-  <p style="margin: 0; color:#444;">
-    <a href="https://your-website.example">Website</a> ·
-    <a href="https://linkedin.com/in/your-handle">LinkedIn</a> ·
-    <a href="mailto:you@example.com">Email</a>
-  </p>
-  <p style="margin-top: 10px; color:#777; font-size: 13px;">
-    Replace the placeholder URLs with your real profiles.
-  </p>
-</div>

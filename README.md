@@ -48,25 +48,21 @@
 
 <div align="center">
   <div style="max-width: 980px; display: flex; flex-wrap: wrap; gap: 10px; justify-content: center;">
-    <div>
-      <div style="display:inline-block; padding: 10px 14px; background:#111; color:#fff; border-radius: 12px;">Solidity</div>
-      <div style="display:inline-block; padding: 10px 14px; background:#111; color:#fff; border-radius: 12px;">Hardhat</div>
-      <div style="display:inline-block; padding: 10px 14px; background:#111; color:#fff; border-radius: 12px;">OpenZeppelin</div>
-      <div style="display:inline-block; padding: 10px 14px; background:#111; color:#fff; border-radius: 12px;">Smart Contract Security</div>
-      <div style="display:inline-block; padding: 10px 14px; background:#10B981; color:#fff; border-radius: 12px;">Rust</div>
-      <div style="display:inline-block; padding: 10px 14px; background:#10B981; color:#fff; border-radius: 12px;">Anchor</div>
-      <div style="display:inline-block; padding: 10px 14px; background:#10B981; color:#fff; border-radius: 12px;">Solana Programs</div>
-      <div style="display:inline-block; padding: 10px 14px; background:#10B981; color:#fff; border-radius: 12px;">CPI / Accounts</div>
-    </div>
-    <div>
-      <div style="display:inline-block; padding: 10px 14px; background:#2563EB; color:#fff; border-radius: 12px;">LLM</div>
-      <div style="display:inline-block; padding: 10px 14px; background:#2563EB; color:#fff; border-radius: 12px;">RAG</div>
-      <div style="display:inline-block; padding: 10px 14px; background:#2563EB; color:#fff; border-radius: 12px;">Evaluation</div>
-      <div style="display:inline-block; padding: 10px 14px; background:#2563EB; color:#fff; border-radius: 12px;">Guardrails</div>
-      <div style="display:inline-block; padding: 10px 14px; background:#F59E0B; color:#111; border-radius: 12px;">TypeScript</div>
-      <div style="display:inline-block; padding: 10px 14px; background:#F59E0B; color:#111; border-radius: 12px;">Node.js</div>
-      <div style="display:inline-block; padding: 10px 14px; background:#F59E0B; color:#111; border-radius: 12px;">Web3 Integration</div>
-    </div>
+      <div style="padding: 10px; background:#111; color:#fff; border-radius: 12px;">Solidity</div>
+      <div style="padding: 10px; background:#111; color:#fff; border-radius: 12px;">Hardhat</div>
+      <div style="padding: 10px; background:#111; color:#fff; border-radius: 12px;">OpenZeppelin</div>
+      <div style="padding: 10px; background:#111; color:#fff; border-radius: 12px;">Smart Contract Security</div>
+      <div style="padding: 10px; background:#10B981; color:#fff; border-radius: 12px;">Rust</div>
+      <div style="padding: 10px; background:#10B981; color:#fff; border-radius: 12px;">Anchor</div>
+      <div style="padding: 10px; background:#10B981; color:#fff; border-radius: 12px;">Solana Programs</div>
+      <div style="padding: 10px; background:#10B981; color:#fff; border-radius: 12px;">CPI / Accounts</div>
+      <div style="padding: 10px; background:#2563EB; color:#fff; border-radius: 12px;">LLM</div>
+      <div style="padding: 10px; background:#2563EB; color:#fff; border-radius: 12px;">RAG</div>
+      <div style="padding: 10px; background:#2563EB; color:#fff; border-radius: 12px;">Evaluation</div>
+      <div style="padding: 10px; background:#2563EB; color:#fff; border-radius: 12px;">Guardrails</div>
+      <div style="padding: 10px; background:#F59E0B; color:#111; border-radius: 12px;">TypeScript</div>
+      <div style="padding: 10px; background:#F59E0B; color:#111; border-radius: 12px;">Node.js</div>
+      <div style="padding: 10px; background:#F59E0B; color:#111; border-radius: 12px;">Web3 Integration</div>
   </div>
 </div>
 

@@ -10,7 +10,7 @@
   Full-stack Engineer
 </h1>
 
-<h3>I don’t think I’m a full-stack engineer, but apparently everyone else does — and they even added ‘senior’.😂😂😂</h3>
+<h3>Blockchain (EVM & Solana) + AI (LLM) engineer building secure, production-grade decentralized systems. I design smart contracts for EVM chains (Solidity, DeFi primitives, audits-minded development) and develop high-performance Solana programs using Rust/Anchor, plus the indexing + infrastructure needed to power user experiences. On the AI side, I build LLM-powered products with RAG, fine-tuning where it fits, evaluation/guardrails, and clean model-to-app integration.</h3>
 
 <br />
 

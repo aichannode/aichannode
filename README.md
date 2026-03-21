@@ -1,23 +1,15 @@
 <!-- GitHub Profile README (copy into your profile repo: USERNAME/USERNAME) -->
-<div align="start">
+<div align="center">
  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=220&section=header&text=Blockchain%20%2B%20LLM%20Engineer&fontSize=64"      alt="Blockchain and LLM Engineering banner" />
 
-  <div style="max-width: 720px; padding: 20px; margin: 18px auto; border-radius: 14px; background: #f8f9fc; color: #444;">
+  <div align="start" style="max-width: 720px; padding: 20px; margin: 18px auto; border-radius: 14px; background: #f8f9fc; color: #444;">
     Building secure blockchain systems and LLM-powered applications. 
     <br/>
     <b>Blockchain:</b> EVM dApps + Solana programs (Rust/Anchor). 
     <br/>
     <b>AI:</b> LLM apps with RAG, evaluation, and guardrails. Currently shipping agentic workflows that safely connect LLM reasoning with on-chain data and actions.
   </div>
-
-  <p>
-    <a href="https://github.com/"><img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github"/></a>
-    <img src="https://img.shields.io/badge/Focus-EVM%20%2B%20Solana%20%2B%20LLM-2A7FFF?style=for-the-badge&logo=ai"/>
-    <img src="https://img.shields.io/badge/Security%20Mindset-Audit%20Ready-FFB020?style=for-the-badge&logo=security"/>
-  </p>
 </div>
-
-<hr style="margin: 22px 0; border: none; border-top: 1px solid #eaeaea;" />
 
 ## <b style="color: #111; font-weight: 800;">Skillset</b>
 

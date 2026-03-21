@@ -1,45 +1,20 @@
 <!-- GitHub Profile README (copy into your profile repo: USERNAME/USERNAME) -->
-<div align="center">
- <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=220&section=header&text=Web3%20%2B%20LLM%20Engineering&fontSize=64"      alt="Web3 and LLM Engineering banner" />
+<div align="start">
+ <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=220&section=header&text=Blockchain%20%2B%20LLM%20Engineer&fontSize=64"      alt="Blockchain and LLM Engineering banner" />
 
-  <h1 style="margin-top: 18px; margin-bottom: 6px;">
-    Web3 + AI Engineer
-  </h1>
-
-  <p style="font-size: 16px; color: #555; margin: 0 0 14px;">
-    Building secure Web3 systems and LLM-powered applications.
-    Solidity smart contracts + Rust/Anchor on Solana, with RAG, evaluation, and guardrails for AI.
-  </p>
+  <div style="max-width: 720px; padding: 20px; margin: 18px auto; border-radius: 14px; background: #f8f9fc; color: #444;">
+    Building secure blockchain systems and LLM-powered applications. 
+    <br/>
+    <b>Blockchain:</b> EVM dApps + Solana programs (Rust/Anchor). 
+    <br/>
+    <b>AI:</b> LLM apps with RAG, evaluation, and guardrails. Currently shipping agentic workflows that safely connect LLM reasoning with on-chain data and actions.
+  </div>
 
   <p>
     <a href="https://github.com/"><img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github"/></a>
     <img src="https://img.shields.io/badge/Focus-EVM%20%2B%20Solana%20%2B%20LLM-2A7FFF?style=for-the-badge&logo=ai"/>
     <img src="https://img.shields.io/badge/Security%20Mindset-Audit%20Ready-FFB020?style=for-the-badge&logo=security"/>
   </p>
-</div>
-
-<hr style="margin: 22px 0; border: none; border-top: 1px solid #eaeaea;" />
-
-<div>
-  <div align="center" style="max-width: 980px; margin: 0 auto;">
-    <table style="width: 100%; border-collapse: collapse;">
-      <tr>
-        <td style="padding: 14px; border-radius: 14px; background: #f7f7ff;">
-          <div style="font-weight: 700; margin-bottom: 6px;">What I do</div>
-          <div style="color: #444;">
-            <b>Blockchain:</b> EVM dApps + Solana programs (Rust/Anchor).<br/>
-            <b>AI:</b> LLM apps with <b>RAG</b>, <b>evaluation</b>, and <b>guardrails</b>.
-          </div>
-        </td>
-        <td style="padding: 14px; border-radius: 14px; background: #f7fbff; width: 42%;">
-          <div style="font-weight: 700; margin-bottom: 6px;">Currently</div>
-          <div style="color: #444;">
-            Shipping agentic workflows that safely connect LLM reasoning with on-chain data and actions.
-          </div>
-        </td>
-      </tr>
-    </table>
-  </div>
 </div>
 
 <hr style="margin: 22px 0; border: none; border-top: 1px solid #eaeaea;" />

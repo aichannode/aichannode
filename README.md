@@ -34,6 +34,7 @@
   <img src="https://img.shields.io/badge/Evaluation-2563EB?style=flat-square"/>
   <img src="https://img.shields.io/badge/Guardrails-2563EB?style=flat-square"/>
   <img src="https://img.shields.io/badge/CrewAI-2563EB?style=flat-square"/>
+  <img src="https://img.shields.io/badge/AgenticAI-2563EB?style=flat-square"/>
   <img src="https://img.shields.io/badge/MCP-2563EB?style=flat-square"/>
   <br/><br/>
   <b>Fullstack</b>
@@ -41,6 +42,8 @@
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react"/>
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript"/>
   <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js"/>
+  <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python"/>
   <img src="https://img.shields.io/badge/wagmi-EC1C24?style=flat-square"/>
   <img src="https://img.shields.io/badge/viem-6366F1?style=flat-square"/>
 </p>

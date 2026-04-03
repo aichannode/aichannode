@@ -1,17 +1,31 @@
 <!-- GitHub Profile README (copy into your profile repo: USERNAME/USERNAME) -->
 <div align="center">
   <div align="start" style="max-width: 720px; padding: 20px; margin: 18px auto; border-radius: 14px; background: #f8f9fc; color: #444;">
-    Building secure blockchain systems and LLM-powered applications. 
+    <b style="color: #111;">Full-stack &amp; blockchain engineer — applied AI &amp; LLMs.</b>
+    <br/><br/>
+    I ship end-to-end products—from APIs and UIs to on-chain logic—and use LLMs, agents, and guardrails to move faster without trading off safety or correctness.
+    <br/><br/>
+    <b>Fullstack:</b> TypeScript/React, Node, Python/Django; web3 frontends with wagmi/viem.
     <br/>
-    <b>Blockchain:</b> EVM dApps + Solana programs (Rust/Anchor). 
+    <b>Blockchain:</b> EVM dApps, Solana (Rust/Anchor), and zk-oriented stacks—smart contracts you can reason about and operate.
     <br/>
-    <b>AI:</b> LLM apps with RAG, evaluation, and guardrails. Currently shipping agentic workflows that safely connect LLM reasoning with on-chain data and actions.
+    <b>AI:</b> RAG, evaluation, and agentic workflows that connect language models to real data—including on-chain context and actions where it fits.
   </div>
 </div>
 
 ## <b style="color: #111; font-weight: 800;">Skillset</b>
 
 <p align="center">
+  <b>Fullstack</b>
+  <br/>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js"/>
+  <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python"/>
+  <img src="https://img.shields.io/badge/wagmi-EC1C24?style=flat-square"/>
+  <img src="https://img.shields.io/badge/viem-6366F1?style=flat-square"/>
+  <br/><br/>
   <b>Blockchain</b> — EVM · Solana · zk
   <br/>
   <img src="https://img.shields.io/badge/Solidity-363636?style=flat-square&logo=solidity"/>
@@ -25,7 +39,7 @@
   <img src="https://img.shields.io/badge/zkSync-8B5CF6?style=flat-square"/>
   <img src="https://img.shields.io/badge/Circom-8B5CF6?style=flat-square"/>
   <br/><br/>
-  <b>AI</b> — LLM
+  <b>AI</b> — LLM · agents · tooling
   <br/>
   <img src="https://img.shields.io/badge/LLM-2563EB?style=flat-square"/>
   <img src="https://img.shields.io/badge/RAG-2563EB?style=flat-square"/>
@@ -34,16 +48,6 @@
   <img src="https://img.shields.io/badge/CrewAI-2563EB?style=flat-square"/>
   <img src="https://img.shields.io/badge/AgenticAI-2563EB?style=flat-square"/>
   <img src="https://img.shields.io/badge/MCP-2563EB?style=flat-square"/>
-  <br/><br/>
-  <b>Fullstack</b>
-  <br/>
-  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react"/>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript"/>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js"/>
-  <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python"/>
-  <img src="https://img.shields.io/badge/wagmi-EC1C24?style=flat-square"/>
-  <img src="https://img.shields.io/badge/viem-6366F1?style=flat-square"/>
 </p>
 
 <hr style="margin: 22px 0; border: none; border-top: 1px solid #eaeaea;" />

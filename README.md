@@ -1,23 +1,18 @@
 <!-- GitHub Profile README (copy into your profile repo: USERNAME/USERNAME) -->
 <div align="center">
   <div align="start" style="max-width: 720px; padding: 20px; margin: 18px auto; border-radius: 14px; background: #f8f9fc; color: #444;">
-    <b style="color: #111;">Full-stack &amp; blockchain engineer — applied AI &amp; LLMs.</b>
+    <b style="color: #111; font-size: 1.75rem; font-weight: 700; line-height: 1.25; display: block; margin-bottom: 0.35em;">Full-stack &amp; blockchain engineer — applied AI &amp; LLMs.</b>
+    <br/>
+    I keep coming back to systems that have to work when real money and real users are on the line, so I think in layers: an interface people trust, services that behave, and contracts that stay honest on-chain.
     <br/><br/>
-    I ship end-to-end products—from APIs and UIs to on-chain logic—and use LLMs, agents, and guardrails to move faster without trading off safety or correctness.
+    That path turned me into someone who builds the whole arc—React and Next on the front, Node and Python on the back, data in PostgreSQL and MongoDB—then carries the same discipline into Web3 with wagmi, viem, and chains where every byte has a price.
     <br/><br/>
-    <b>Languages:</b> TypeScript, JavaScript, Python, Rust, Solidity, Java, Swift.
-    <br/>
-    <b>Frontend:</b> React/Next, TanStack Query, TypeScript, Tailwind, shadcn/ui; Web3 clients with wagmi/viem.
-    <br/>
-    <b>Backend:</b> Node.js, Sequelize, Python (Django, Flask), PostgreSQL, MongoDB; GraphQL and REST APIs.
-    <br/>
-    <b>Blockchain:</b> EVM dApps, Solana (Rust/Anchor), and ZK-oriented stacks—smart contracts you can reason about and operate.
-    <br/>
-    <b>DevOps:</b> CI/CD, Docker, Kubernetes, AWS, nginx, SonarQube, Firebase, and Jira.
-    <br/>
-    <b>AI:</b> RAG, evaluation, and agentic workflows that connect language models to real data—including on-chain context and actions where it fits.
+    On the blockchain side I work across EVM and Solana, from Hardhat and Foundry to Anchor and ZK-flavored stacks, because the story only holds if the protocol and the app agree.
+    <br/><br/>
+    Lately the plot twist is AI: I use LLMs, RAG, and agentic workflows as leverage, always paired with guardrails and evaluation so speed never trades away safety.
+    <br/><br/>
+    Behind the scenes I keep delivery boring in a good way—CI/CD, Docker, Kubernetes, AWS, and tools like SonarQube, Firebase, and Jira—so the products themselves stay interesting.
   </div>
-</div>
 
 ## Skills
 

@@ -5,48 +5,96 @@
     <br/><br/>
     I ship end-to-end products—from APIs and UIs to on-chain logic—and use LLMs, agents, and guardrails to move faster without trading off safety or correctness.
     <br/><br/>
-    <b>Fullstack:</b> TypeScript/React, Node, Python/Django; web3 frontends with wagmi/viem.
+    <b>Languages:</b> TypeScript, JavaScript, Python, Rust, Solidity, Java, Swift.
     <br/>
-    <b>Blockchain:</b> EVM dApps, Solana (Rust/Anchor), and zk-oriented stacks—smart contracts you can reason about and operate.
+    <b>Frontend:</b> React/Next, TanStack Query, TypeScript, Tailwind, shadcn/ui; Web3 clients with wagmi/viem.
+    <br/>
+    <b>Backend:</b> Node.js, Sequelize, Python (Django, Flask), PostgreSQL, MongoDB; GraphQL and REST APIs.
+    <br/>
+    <b>Blockchain:</b> EVM dApps, Solana (Rust/Anchor), and ZK-oriented stacks—smart contracts you can reason about and operate.
+    <br/>
+    <b>DevOps:</b> CI/CD, Docker, Kubernetes, AWS, nginx, SonarQube, Firebase, and Jira.
     <br/>
     <b>AI:</b> RAG, evaluation, and agentic workflows that connect language models to real data—including on-chain context and actions where it fits.
   </div>
 </div>
 
-## <b style="color: #111; font-weight: 800;">Skillset</b>
+## Skills
 
-<p align="center">
-  <b>Fullstack</b>
-  <br/>
+### Programming Languages
+
+<p align="left">
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Solidity-363636?style=flat-square&logo=solidity&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=swift&logoColor=white"/>
+</p>
+
+### Frontend
+
+<p align="left">
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react"/>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript"/>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js"/>
-  <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python"/>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TanStack%20Query-FF4154?style=flat-square&logo=reactquery&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white"/>
+  <img src="https://img.shields.io/badge/shadcn%2Fui-000000?style=flat-square&logo=shadcnui&logoColor=white"/>
   <img src="https://img.shields.io/badge/wagmi-EC1C24?style=flat-square"/>
   <img src="https://img.shields.io/badge/viem-6366F1?style=flat-square"/>
-  <br/><br/>
-  <b>Blockchain</b> — EVM · Solana · zk
-  <br/>
-  <img src="https://img.shields.io/badge/Solidity-363636?style=flat-square&logo=solidity"/>
-  <img src="https://img.shields.io/badge/Hardhat-FFE66D?style=flat-square&logo=hardhat"/>
+</p>
+
+### Backend
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js"/>
+  <img src="https://img.shields.io/badge/Sequelize-52B0E7?style=flat-square&logo=sequelize&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django"/>
+  <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/REST%20APIs-111827?style=flat-square"/>
+</p>
+
+### Blockchain
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Hardhat-FFE66D?style=flat-square&logo=hardhat&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Foundry-1E1E1E?style=flat-square"/>
+  <img src="https://img.shields.io/badge/ethers.js-243944?style=flat-square"/>
   <img src="https://img.shields.io/badge/OpenZeppelin-4E5EE4?style=flat-square"/>
   <img src="https://img.shields.io/badge/Smart%20Contract%20Audit-FFB020?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust"/>
   <img src="https://img.shields.io/badge/Anchor-9945FF?style=flat-square"/>
-  <img src="https://img.shields.io/badge/zkProofs-8B5CF6?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Solana-9945FF?style=flat-square&logo=solana&logoColor=white"/>
+  <img src="https://img.shields.io/badge/ZK%20Proofs-8B5CF6?style=flat-square"/>
   <img src="https://img.shields.io/badge/zkEVM-8B5CF6?style=flat-square"/>
   <img src="https://img.shields.io/badge/zkSync-8B5CF6?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Circom-8B5CF6?style=flat-square"/>
-  <br/><br/>
-  <b>AI</b> — LLM · agents · tooling
-  <br/>
+</p>
+
+### DevOps
+
+<p align="left">
+  <img src="https://img.shields.io/badge/CI%2FCD-111827?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white"/>
+  <img src="https://img.shields.io/badge/nginx-009639?style=flat-square&logo=nginx&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SonarQube-4E9BCD?style=flat-square&logo=sonarqube&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white"/>
+</p>
+
+###  AI · LLMs
+
+<p align="left">
   <img src="https://img.shields.io/badge/LLM-2563EB?style=flat-square"/>
   <img src="https://img.shields.io/badge/RAG-2563EB?style=flat-square"/>
   <img src="https://img.shields.io/badge/Evaluation-2563EB?style=flat-square"/>
   <img src="https://img.shields.io/badge/Guardrails-2563EB?style=flat-square"/>
   <img src="https://img.shields.io/badge/CrewAI-2563EB?style=flat-square"/>
-  <img src="https://img.shields.io/badge/AgenticAI-2563EB?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Agentic%20AI-2563EB?style=flat-square"/>
   <img src="https://img.shields.io/badge/MCP-2563EB?style=flat-square"/>
 </p>
 

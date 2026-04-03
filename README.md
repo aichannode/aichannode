@@ -1,7 +1,5 @@
 <!-- GitHub Profile README (copy into your profile repo: USERNAME/USERNAME) -->
 <div align="center">
- <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=220&section=header&text=Blockchain%20%2B%20LLM%20Engineer&fontSize=64"      alt="Blockchain and LLM Engineering banner" />
-
   <div align="start" style="max-width: 720px; padding: 20px; margin: 18px auto; border-radius: 14px; background: #f8f9fc; color: #444;">
     Building secure blockchain systems and LLM-powered applications. 
     <br/>

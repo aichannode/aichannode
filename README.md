@@ -85,8 +85,11 @@
 ### AI · LLMs
 
 <p align="left">
-  <img src="https://img.shields.io/badge/LLMs-412991?style=flat-square&logo=openai&logoColor=white" alt="Large language models"/>
   <img src="https://img.shields.io/badge/RAG-1C3C3C?style=flat-square&logo=langchain&logoColor=white" alt="Retrieval-augmented generation"/>
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" alt="LangChain"/>
+  <img src="https://img.shields.io/badge/LangGraph-047857?style=flat-square&logo=langgraph&logoColor=white" alt="LangGraph"/>
+  <img src="https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white" alt="n8n"/>
+  <img src="https://img.shields.io/badge/OpenAI%20SDK-412991?style=flat-square&logo=openai&logoColor=white" alt="OpenAI SDK"/>
   <img src="https://img.shields.io/badge/Evaluation-181717?style=flat-square&logo=weightsandbiases&logoColor=white" alt="Model evaluation"/>
   <img src="https://img.shields.io/badge/Guardrails-7C3AED?style=flat-square&logo=shield&logoColor=white" alt="Safety guardrails"/>
   <img src="https://img.shields.io/badge/CrewAI-FF5A1F?style=flat-square&logo=crewai&logoColor=white" alt="CrewAI"/>

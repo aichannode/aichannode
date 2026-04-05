@@ -1,6 +1,8 @@
 <!-- GitHub Profile README (copy into your profile repo: USERNAME/USERNAME) -->
+<div align="start">
+  
 ## Full-stack &amp; blockchain engineer — applied AI &amp; LLMs.
-<div align="center">
+  
   <div align="start" style="max-width: 720px; padding: 20px; margin: 18px auto; border-radius: 14px; background: #f8f9fc; color: #444;">
     <br/>
     I keep coming back to systems that have to work when real money and real users are on the line, so I think in layers: an interface people trust, services that behave, and contracts that stay honest on-chain.
